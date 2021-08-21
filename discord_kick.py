@@ -110,4 +110,4 @@ async def help_kick_bot(ctx):
 @bot.command()
 async def id(ctx, member : discord.Member):
     await ctx.channel.send(member.id)
-bot.run("ODc4MzU0NDU1MDIyNjgyMTIz.YR_9VQ.5LGwdtP2mQSsvDanAr4HUB_Z-Cw")
+bot.run("token")
